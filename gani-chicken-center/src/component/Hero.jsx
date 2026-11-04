@@ -69,7 +69,7 @@ const Hero = () => {
 
           {/* DESCRIPTION */}
           <p className="text-base sm:text-xl md:text-2xl text-white font-semibold max-w-lg leading-snug mb-8">
-            Fresh & Healthy Chicken for a
+            Fresh & Healthy Chicken for a 
             <br className="hidden sm:block" />
             Better Tomorrow
           </p>
