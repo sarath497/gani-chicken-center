@@ -11,7 +11,7 @@ import chickenLiver from "../assets/6.png";
 
 const Products = () => {
 
-  const whatsappNumber = "91XXXXXXXXXX";
+  const whatsappNumber = "9491864370";
 
   const products = [
     {

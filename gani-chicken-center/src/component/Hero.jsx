@@ -98,7 +98,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://wa.me/91XXXXXXXXXX"
+              href="https://wa.me/9491864370"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 border-2 border-white hover:bg-white hover:text-black text-white px-7 py-4 rounded-full font-bold text-base sm:text-lg transition-all duration-300"
